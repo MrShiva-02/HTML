@@ -1,7 +1,28 @@
-<DOCTYPE!>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-HTML SAMPLE
+    <meta name="author" contet="Shiva">
+    <meta name="description" content="In this page I'm trying to learn html basics">
+    <title>A web page</title>
+   <style>
+    html{
+    font-size:22px;}
+body{
+background-color:black;
+color:white;}
+</style>
 </head>
 <body>
-<p> Sample HTML program.</p>
+    <h1>Hello Everyone!</h1>
+    <p>
+        <h4>Enter Your details </h4>
+        First name : <input type="text"><br>
+        Last name : <input type="text"><br>
+        Mobile Number : <input type="number"><br>
+        Gender : Male <input type="checkbox"> Female <input type="checkbox"><br>
+        Date of Birth : <input type="date"><br>
+        Appload ID proof : <input type="file"><br>
+	<input type="submit">
+    </p>
 </body>
+</html>
