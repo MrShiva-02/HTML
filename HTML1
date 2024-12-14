@@ -3,7 +3,7 @@
 <head>
     <meta name="author" contet="Shiva">
     <meta name="description" content="In this page I'm trying to learn html basics">
-    <title>A web page</title>
+    <title>A web page of shiva</title>
    <style>
     html{
     font-size:22px;}
@@ -11,6 +11,7 @@ body{
 background-color:black;
 color:white;}
 </style>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Hello Everyone!</h1>
@@ -24,5 +25,6 @@ color:white;}
         Appload ID proof : <input type="file"><br>
 	<input type="submit">
     </p>
+    <p align="center"> Thank You </p>
 </body>
 </html>
